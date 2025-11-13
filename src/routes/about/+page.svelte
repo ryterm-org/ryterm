@@ -113,7 +113,7 @@
 				></SecondaryButton>
 			{/snippet}
 		</People>
-		<People name={"Gabriel"} role={"Contributor, System Architect"}>
+		<People name={"Gabriel"} role={"Contributor, Back-end developer and System Architect"}>
 			{#snippet buttons()}
 				<SecondaryButton
 					label={"X/Twitter"}
