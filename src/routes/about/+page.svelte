@@ -4,7 +4,7 @@
 </script>
 
 <svelte:head>
-	<title>Ryterm - About us</title>
+	<title>Ryterm/About</title>
 </svelte:head>
 
 <main>
