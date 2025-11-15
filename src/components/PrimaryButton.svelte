@@ -9,6 +9,8 @@
 <style>
 	a {
 		color: white;
-		background-color: blue;
+		background-color: #0062cc;
+		padding: 0.4rem;
+		border: 1px solid #002954;
 	}
 </style>

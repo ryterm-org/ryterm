@@ -19,8 +19,12 @@ main {
 	padding: 2rem;
 }
 
-a:hover {
-	text-decoration: none;
+a {
+	display: inline-block;
+
+	&:hover {
+		text-decoration: none;
+	}
 }
 
 @media (prefers-color-scheme: dark) {

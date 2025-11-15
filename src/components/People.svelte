@@ -8,20 +8,15 @@
 		<p>{desc}</p>
 	</div>
 	<div>
-		{@render buttons?.()}
+		{@render buttons()}
 	</div>
 </div>
 
 <style>
 	.project {
 		width: auto;
+		height: auto;
 		padding: 5px;
-		border: 1px solid black;
-	}
-
-	@media (prefers-color-scheme: dark) {
-		.project {
-			border: 1px solid white;
-		}
+		border: 1px solid #808080;
 	}
 </style>
