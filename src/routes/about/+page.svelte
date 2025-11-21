@@ -87,6 +87,15 @@
 			{/snippet}
 		</People>
 	</div>
+	<div>
+		<h2>
+			Our IRC channel on libera.chat
+		</h2>
+		<SecondaryButton
+			label="#ryterm"
+			link="irc://irc.libera.chat/#ryterm"
+		></SecondaryButton>
+	</div>
 </main>
 
 <style>
