@@ -29,10 +29,6 @@
 		<People name="Aury" desc="Founder and BDFL, Full-Stack developer">
 			{#snippet buttons()}
 				<SecondaryButton
-					label="X/Twitter"
-					link="https://x.com/aurora_0x3A"
-				></SecondaryButton>
-				<SecondaryButton
 					label="SourceHut"
 					link="https://git.sr.ht/~aury"
 				></SecondaryButton>
