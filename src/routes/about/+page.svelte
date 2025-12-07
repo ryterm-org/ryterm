@@ -58,18 +58,6 @@
 				></SecondaryButton>
 			{/snippet}
 		</People>
-		<People name="Ícaro" desc="Contributor, Web developer">
-			{#snippet buttons()}
-				<SecondaryButton
-					label="Github"
-					link="https://github.com/icaroCodes"
-				></SecondaryButton>
-				<SecondaryButton
-					label="Youtube"
-					link="https://youtube.com/@icaroCodes"
-				></SecondaryButton>
-			{/snippet}
-		</People>
 		<People name="Gabriel" desc="Contributor, Back-end developer and System Architect">
 			{#snippet buttons()}
 				<SecondaryButton
