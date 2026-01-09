@@ -1,15 +1,8 @@
-import { sveltekit } from "@sveltejs/kit/vite";
+import { reactRouter } from "@react-router/dev/vite";
+import tailwindcss from "@tailwindcss/vite";
 import { defineConfig } from "vite";
-
-const PORT = 3000;
+import tsconfigPaths from "vite-tsconfig-paths";
 
 export default defineConfig({
-	plugins: [sveltekit()],
-	server: {
-		port: PORT,
-	},
-	preview: {
-		port: PORT,
-		allowedHosts: ["ryterm.xyz"],
-	},
+  plugins: [tailwindcss(), reactRouter(), tsconfigPaths()]
 });
