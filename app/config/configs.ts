@@ -45,11 +45,11 @@ export const projects: Project[] = [
         description: "Communities-based chat application",
         buttons: [
             {
-                label: "Github(API)",
+                label: "Source code - API",
                 style: "outline",
                 url: "https://github.com/ryterm/kutter_api",
                 icon: Github
-            }
+            },
         ],
         deprecated: false,
         image: Kutter
