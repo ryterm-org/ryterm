@@ -7,7 +7,7 @@ import Takasaki from "@/assets/peoples/takasaki.png";
 import Gabriel from "@/assets/peoples/gabriel.png";
 import Noa from "@/assets/peoples/noa.png";
 
-import { DotsCircle, Github, GithubSolid, Instagram, TwitterSolid, XSolid, type MynaIconsProps } from "@mynaui/icons-react";
+import { Circle, Github, GithubSolid, Instagram, TwitterSolid, Globe, XSolid, type MynaIconsProps } from "@mynaui/icons-react";
 import { SiDiscord } from 'react-icons/si';
 import type { IconType } from "react-icons/lib";
 
@@ -66,7 +66,13 @@ export const peoples: People[] = [
                 label: "SourceHut",
                 style: "primary",
                 url: "https://git.sr.ht/~aury",
-                icon: DotsCircle
+                icon: Circle
+            },
+            {
+                label: "Blog",
+                style: "outline",
+                url: "https://aury.ryterm.xyz/blog",
+                icon: Globe
             }
         ]
     },
