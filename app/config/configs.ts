@@ -78,7 +78,7 @@ export const peoples: People[] = [
     },
     {
         name: "Vitor",
-        description: "Contributor, Web developer"
+        description: "Contributor, Web developer",
         image: Vitor,
         button: [
             {
