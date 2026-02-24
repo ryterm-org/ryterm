@@ -91,7 +91,7 @@ export const peoples: People[] = [
             {
                 label: "Github",
                 style: "outline",
-                url: "https:/github.com/h411v/",
+                url: "https://github.com/h411v/",
                 icon: GithubSolid
             }
         ]
