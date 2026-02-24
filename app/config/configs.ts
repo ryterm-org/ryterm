@@ -6,6 +6,7 @@ import Alice from "@/assets/peoples/alice.png";
 import Takasaki from "@/assets/peoples/takasaki.png";
 import Gabriel from "@/assets/peoples/gabriel.png";
 import Noa from "@/assets/peoples/noa.png";
+import Vitor from "@/assets/peoples/vitor.png";
 
 import { Circle, Github, GithubSolid, Instagram, TwitterSolid, Globe, XSolid, type MynaIconsProps } from "@mynaui/icons-react";
 import { SiDiscord } from 'react-icons/si';
