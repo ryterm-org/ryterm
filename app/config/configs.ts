@@ -81,7 +81,7 @@ export const peoples: People[] = [
         name: "Vitor",
         description: "Contributor, Web developer",
         image: Vitor,
-        button: [
+        buttons: [
             {
                 label: "Website",
                 style: "primery",
